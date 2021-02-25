@@ -19,7 +19,7 @@ html, body{
 .navbar__toggle {
   width: 48px;
   height: 106px;
-  background-image: url(/assets/icons/wave.svg);
+  background-image: url(assets/icons/wave.svg);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -99,7 +99,7 @@ html, body{
   cursor: pointer;
   width: 50px;
   height: 50px;
-  background-image: url(/assets/icons/logo.svg);
+  background-image: url(assets/icons/logo.svg);
 }
 
 .navbar__items__logo__logo-text{
@@ -195,7 +195,7 @@ main {
 }
 
 .header__search-bar__search-input {
-  background: url(/assets/icons/search.svg) no-repeat scroll 7px center;
+  background: url(assets/icons/search.svg) no-repeat scroll 7px center;
   padding-left: 30px;
   height: 52px;
   width: 100%;
@@ -330,7 +330,7 @@ main {
   .navbar__toggle {
     height: 105px;
     /* border: 1px solid green; */
-    background-image: url(/assets/icons/wave.svg);
+    background-image: url(assets/icons/wave.svg);
     display: flex;
     z-index: 2;
     left: var(--nav-width);
@@ -344,7 +344,7 @@ main {
   .navbar__items__logo__logo-img {
     width: 24px;
     height: 24px;
-    background-image: url(/assets/icons/logo-small.svg);
+    background-image: url(assets/icons/logo-small.svg);
   }
 
   .show-text {
